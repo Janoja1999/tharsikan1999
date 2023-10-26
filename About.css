@@ -1,0 +1,117 @@
+/* About.css */
+.about {
+    background-image: url('/src/components/images/shutterstock_510365542_Web.jpg ');
+  text-align: center; 
+    padding: 20px;
+    /* margin: 2px; */
+
+  }
+  
+  .about h2 {
+    font-size: 28px;
+    /* margin-bottom: 20px; */
+  }
+  .align p2{
+    text-align: left;
+    font-size: 20px;
+  }
+  .align1 p2{
+    font-size: 20px;
+  }
+  .align h4 {
+    font-size: 26px;
+    align-content: left;
+    text-align: left;
+  }
+  .align1 h4 {
+    font-size: 26px;
+    align-content: left;
+    text-align: left;
+  }
+  .align1 h4 {
+    font-size: 26px;
+    align-content: left;
+  text-align: left;
+  }
+  .about p {
+    font-size: 18px;
+    
+  }
+
+  .flexx {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    /* flex-wrap: ; */
+    font-size: 23px;
+    align-items: center;
+    /* flex-flow: row wrap; */
+  }
+  /* .flexx p1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* flex-wrap: ;  */
+     /* font-size: 20px;  */
+
+   
+  .about1{
+    background-color: rgb(184, 184, 201);
+    /* margin: 20px; */
+     font-size: 250px;
+
+  }
+  .passion{
+    float: right;
+    border-radius: 20px;
+    
+  }
+  .customer{
+    float: left;
+    
+    border-radius: 20px;
+  }
+  .applogo{
+    width: 40%;
+    height: 40%;
+    margin: 15%;
+    margin-top:10% ;
+    border: 3px slategrey ;
+    border-radius: 100px;
+
+  }
+
+.flex1 h3{
+  margin-right :90px; 
+
+}
+
+.flex2 h3{
+  margin-right :90px; 
+
+}
+.flex1 p1{
+  /* margin-right: 100px;
+  justify-content: left; */
+  text-align: left;
+  margin-top: 130;
+}
+.flex2 p2{
+  margin-right: 100px;
+  justify-content: left;
+  
+}
+.flex3 p3{
+  margin-right: 100px;
+  justify-content: left;
+}
+  /* .align{
+    position: absolute;
+
+  } */
+  /* about.background' */
+  /* .about1{
+
+  } */
+
+  
